@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b80bc090-c1c8-4f6f-b598-87e2781f83ff/resourceGroups/thala-naveen_group/providers/Microsoft.Web/sites/sdctest",
+    "appService.deploySubpath": "."
+}
